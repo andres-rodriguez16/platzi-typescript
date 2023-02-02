@@ -25,4 +25,4 @@ console.log(rta);
 
 const rtav = 1 + '1';
 
-console.log( rtav);
+console.log(rtav);
